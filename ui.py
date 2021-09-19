@@ -34,4 +34,5 @@ class INTERFACE():
         self.window.mainloop()
 
     def send_message(self):
+        #Sending message
         return "True"
