@@ -1,0 +1,1 @@
+This is a short version of friendly insult application which is created by me. 
