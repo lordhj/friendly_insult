@@ -1,1 +1,1 @@
-This is a short version of friendly insult application which is created by me. 
+This is a short version of friendly insult application which is created entirely by me. It allows you to mail some funny insults to your friends within an instant. I have uploaded only the UI currently. As the mailing and the main algorithm is still in progress. 
